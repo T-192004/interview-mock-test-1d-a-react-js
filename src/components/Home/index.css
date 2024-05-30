@@ -1,0 +1,22 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #152850;
+  background-size: cover;
+  height: 100vh;
+}
+.navbar {
+  padding: 10px 30px 10px 30px;
+  background-size: cover;
+  margin-bottom: 8px;
+}
+.navbar-logo {
+}
+.logout-btn {
+}
+.main-container {
+}
+.home-main-heading {
+}
+.card-img {
+}
